@@ -2,4 +2,11 @@
   <component name="DefaultFont">
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
